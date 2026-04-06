@@ -58,7 +58,7 @@ I'm a **Cloud & DevOps Engineering student** at Information Technology Universit
 
 ## 🚀 Featured Projects
 
-### 🔐 [Automated Threat Detection & IP Remediation System](https://github.com/Suhaib-Kashif03/A-Novel-Framework-for-Log-Based-Threat-Detection-and-IP-Remediationin-AWS)
+### 🔐 [Automated Threat Detection & IP Remediation System](https://github.com/Suhaib-Kashif03/A-Novel-Framework-for-Log-Based-Threat-Detection-and-IP-Remediation-in-AWS)
 > Serverless security automation on AWS to detect and remediate SQL Injection & XSS attacks in real-time.
 
 - ⚡ Reduced MTTR from **hours → 1.2 seconds** via automated remediation
