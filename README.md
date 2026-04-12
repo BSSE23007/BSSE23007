@@ -1,161 +1,217 @@
 <div align="center">
 
-<!-- Typing SVG Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ali+Sher+Afzal+%F0%9F%91%8B;Cloud+%26+DevOps+Engineer+(AWS);Infrastructure+as+Code+Enthusiast;DevSecOps+%7C+CI%2FCD+%7C+Kubernetes)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ali%20Sher%20Afzal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS&descAlignY=58&descSize=18&descColor=a8d8ea" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Infrastructure+as+Code+%7C+Terraform;CI%2FCD+Pipelines+%7C+Jenkins+%7C+GitHub+Actions;Containerization+%7C+Docker+%7C+Kubernetes;DevSecOps+%7C+Serverless+%7C+AWS+Lambda)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<br/>
 
-I'm a **Cloud & DevOps Engineering student** at Information Technology University, Lahore, passionate about building scalable, secure, and automated cloud infrastructure. I specialize in AWS architecture, CI/CD pipelines, containerization, and DevSecOps practices.
+## `$ whoami`
 
-- 🔭 Currently working on **serverless security automation** and **real-time data pipelines** on AWS
-- 🌱 Learning **advanced Kubernetes**, **GitOps**, and **cloud-native security**
-- 💡 Passionate about **Infrastructure as Code**, **automation**, and **reliability engineering**
-- 📫 Reach me at: **alisherafzal87@gmail.com**
-- 📍 Based in **Lahore, Pakistan**
+```yaml
+name       : Ali Sher Afzal
+role       : Cloud & DevOps Engineer (AWS)
+location   : Lahore, Pakistan
+university : Information Technology University (2023–2027)
+degree     : BS Software Engineering
+focus      : AWS Architecture · IaC · CI/CD · DevSecOps
+email      : alisherafzal87@gmail.com
+status     : Open to internships & collaborations
+```
+
+---
+
+<br/>
+
+## ☁️ Cloud & DevOps Arsenal
+
+<div align="center">
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
+![Fargate](https://img.shields.io/badge/Fargate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazon-route53&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+
+**DevOps & IaC**
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Languages & Scripting**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+**OS & Servers**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### ☁️ Cloud Platform
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-
-### ⚙️ DevOps & IaC
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-### 🖥️ Operating Systems & Servers
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-
----
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🔐 [Automated Threat Detection & IP Remediation System](https://github.com/Suhaib-Kashif03/A-Novel-Framework-for-Log-Based-Threat-Detection-and-IP-Remediation-in-AWS)
-> Serverless security automation on AWS to detect and remediate SQL Injection & XSS attacks in real-time.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- ⚡ Reduced MTTR from **hours → 1.2 seconds** via automated remediation
-- 🏗️ Full **Terraform IaC** for reproducible infrastructure
-- 📊 Built CloudWatch dashboards improving incident visibility by **60%**
-- 🛡️ Automated network-level security using **Security Groups & NACLs**
-- **Stack:** `AWS Lambda` `S3` `DynamoDB` `CloudWatch` `Terraform` `DevSecOps`
+### 🔐 Threat Detection & IP Remediation
+> Serverless security automation on AWS
+
+- Detects **SQL Injection & XSS** in near real-time
+- MTTR reduced: **hours → 1.2 seconds**
+- Full **Terraform IaC** for reproducibility
+- CloudWatch dashboards: **60% better visibility**
+- Auto network remediation via **Security Groups & NACLs**
+
+`AWS Lambda` `S3` `DynamoDB` `Terraform` `CloudWatch`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Suhaib-Kashif03/A-Novel-Framework-for-Log-Based-Threat-Detection-and-IP-Remediationin-AWS)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 ClickStream Analytics Pipeline
+> Real-time event processing at scale
+
+- Processes **40,000+ user events** in real-time
+- Apache log ingestion via **CloudWatch Agent**
+- **~75% conversion insights** via Logs Insights
+- Business intelligence dashboards
+- Scalable storage with **S3** for future analytics
+
+`CloudWatch` `S3` `Logs Insights` `CloudWatch Agent`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AliSherAfzal)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 End-to-End CI/CD Pipeline
+> Full DevOps lifecycle for a 3-tier application
+
+- Containerized **frontend, backend & DB** with Docker
+- Multi-container orchestration via **Docker Compose**
+- **Kubernetes** Deployment & Service manifests
+- Automated builds & deploys via **Jenkins**
+- Version-controlled Docker images with registry integration
+
+`Docker` `Kubernetes` `Jenkins` `Docker Compose`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BSSE23007/devsolutions)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 High Availability Auto-Scaling Architecture
+> Fault-tolerant AWS infrastructure
+
+- **EC2 Auto Scaling Groups** + Application Load Balancer
+- CloudWatch scaling policies: **40% faster response**
+- Multi-AZ fault tolerance design
+- Load-tested for scalability & availability validation
+
+`EC2` `ALB` `Auto Scaling` `CloudWatch` `VPC`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AliSherAfzal)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 [ClickStream Data Analytics Pipeline](https://github.com/BSSE23007)
-> Real-time data pipeline processing 40K+ user events for business intelligence.
-
-- 📥 Ingested Apache logs via **CloudWatch Agent** for continuous monitoring
-- 🔍 Queried logs with **CloudWatch Logs Insights** — ~75% conversion insights
-- 📈 Designed BI dashboards for traffic analysis
-- 💾 Scalable storage with **S3** for future analytics
-- **Stack:** `AWS CloudWatch` `S3` `CloudWatch Agent` `Logs Insights`
-
----
-
-### 🔄 [End-to-End DevOps CI/CD Pipeline](https://github.com/BSSE23007/devsolutions)
-> Full 3-tier application with containerized microservices and automated deployment.
-
-- 🐳 Containerized frontend, backend & database using **Docker**
-- 🎛️ Managed multi-container architecture with **Docker Compose**
-- ☸️ Deployed on **Kubernetes** clusters using Deployment & Service manifests
-- 🔁 Automated builds & deployments via **Jenkins CI/CD pipelines**
-- **Stack:** `Docker` `Kubernetes` `Jenkins` `Docker Compose` `Git`
-
----
-
-### 📈 [High Availability & Auto-Scaling Architecture](https://github.com/BSSE23007)
-> Fault-tolerant AWS architecture with intelligent auto-scaling.
-
-- ⚖️ **EC2 Auto Scaling Groups** + Application Load Balancer
-- 📊 CloudWatch-based scaling policies → **40% responsiveness improvement**
-- 🧪 Load testing to validate scalability and high availability
-- **Stack:** `EC2` `ALB` `Auto Scaling` `CloudWatch` `VPC`
-
----
+<br/>
 
 ## 🏅 AWS Certifications
 
-| Badge | Certification |
-|-------|--------------|
-| ☁️ | AWS Academy Graduate – **Cloud Operations** |
-| 🌐 | AWS Academy Graduate – **Cloud Web Application Builder** |
-| 📦 | AWS Academy Graduate – **Cloud Data Pipeline Builder** |
-| 🔄 | AWS Academy Graduate – **Microservices & CI/CD Pipeline Builder** |
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-[![Ali's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BSSE23007&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/AliSherAfzal)
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=BSSE23007&theme=algolia&hide_border=false)](https://github.com/AliSherAfzal)
-
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BSSE23007&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/AliSherAfzal)
+| | Certification |
+|:---:|:---|
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | **AWS Academy Graduate** — Cloud Operations |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | **AWS Academy Graduate** — Cloud Web Application Builder |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | **AWS Academy Graduate** — Cloud Data Pipeline Builder |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | **AWS Academy Graduate** — Microservices & CI/CD Pipeline Builder |
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sher-afzal-457902282/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliSherAfzal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisherafzal87@gmail.com)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AliSherAfzal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AliSherAfzal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AliSherAfzal&theme=tokyonight&hide_border=true)](https://github.com/AliSherAfzal)
 
 </div>
 
 ---
 
+<br/>
+
+## 🤝 Let's Connect
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BSSE23007&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
-
-⭐ **"Automate everything. Secure everything. Scale everything."** ⭐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alisherafzal)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisherafzal87@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliSherAfzal)
 
 </div>
-<!--
-**BSSE23007/BSSE23007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AliSherAfzal&color=38BDF8&style=flat-square&label=Profile+Views)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
